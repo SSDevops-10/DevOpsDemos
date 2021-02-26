@@ -1,5 +1,9 @@
 Trigger for CI
 Test
+<<<<<<< HEAD
 Made in new branch
 Second change
 demo-commit
+=======
+From REomte repo
+>>>>>>> dd01f234cb59d0464137b7f8f180758af472ebf3
